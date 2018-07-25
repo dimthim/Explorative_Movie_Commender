@@ -1,0 +1,6 @@
+7.8	1920	Comedy	Drama	
+6.6	1980	Drama	Romance	Sport
+2.1	2009	Documentary	Music	
+8.2	1925	Adventure	Comedy	Drama
+6.5	1944	Comedy	Musical	
+7.3	1979	Drama	Fantasy	Horror
