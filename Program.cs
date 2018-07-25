@@ -1,0 +1,114 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+
+
+
+
+namespace fileFilterer
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //using (StreamReader reader = new StreamReader(@"C:\Users\Joel Gahr\Desktop\c# projects\csFinalProj1\csFinalProj1\ratings.txt"))
+            //{
+            //    using (StreamWriter writer = new StreamWriter("Ratings2.txt"))
+            //    {
+            //        string line;
+
+            //        while ((line = reader.ReadLine()) != null)
+            //        {
+            //            string[] row = line.Split('\t');
+
+            //            if (int.Parse(row[2]) < 1000)
+            //                continue;
+            //            else
+            //            {
+
+            //                writer.WriteLine(line);
+            //                Console.WriteLine(line);
+
+            //            }
+
+            //        }
+            //    }
+            //}
+
+            //using (var generalInfoReader = new StreamReader(@"C: \Users\Joel Gahr\Desktop\yearGenreType.txt"))
+            //{
+            //    using (var ratingsReader = new StreamReader("Ratings2.txt"))
+            //    {
+            //        using (var movie_writer = new StreamWriter("movieInfo.txt"))
+            //        {
+            //            string genera_line;
+            //            string ratings_line;
+
+
+            //            while ((ratings_line = ratingsReader.ReadLine()) != null)
+            //            {
+
+
+            //                while ((genera_line = generalInfoReader.ReadLine()) != null &&  int.Parse(ratings_line.Substring(2,7)) >= int.Parse(genera_line.Substring(2,7)))
+            //                {
+            //                    string[] ratings_row = ratings_line.Split('\t');
+            //                    string[] genera_row = genera_line.Split('\t');
+
+            //                    if (genera_row[0] == ratings_row[0] && genera_row[1] == "movie" && genera_row[5] != @"\N" && genera_row[4] == "0")
+            //                    {
+
+            //                        movie_writer.WriteLine(genera_line + '\t' + ratings_row[1]);
+
+            //                        Console.WriteLine(genera_line + '\t' + ratings_row[1]);
+            //                        break;
+            //                    }
+
+            //                }
+
+
+            //            }
+
+
+
+
+
+
+
+            //        }
+            //    }
+            //}
+            using (var countryReader = new StreamReader(@"C:\Users\Joel Gahr\Desktop\data (2).tsv"))
+            {
+                using (var movieInfoReader = new StreamReader("movieInfo.txt"))
+                {
+                    using (var movieInfoWriter = new StreamWriter("movieInfoFinal.txt"))
+                    {
+                        string country_line;
+                        string genera_line;
+
+                        while ((genera_line = movieInfoReader.ReadLine()) != null)
+                        {
+                            while ((country_line = countryReader.ReadLine()) != null /*&& int.Parse(country_line.Substring(2, 7)) >= int.Parse(genera_line.Substring(2, 7))*/)
+                            {
+                                string[] country_row = country_line.Split('\t');
+                                string[] genera_row = genera_line.Split('\t');
+
+                                if (country_row[0] == genera_row[0] && country_row[7] == "1")
+                                {
+                                    movieInfoWriter.WriteLine(genera_line + '\t' + country_row[4]);
+                                    Console.WriteLine(genera_line + '\n' + country_row[4]);
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                }
+               
+            }
+                
+
+        }
+    }
+}

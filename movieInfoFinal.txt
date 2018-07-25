@@ -1,0 +1,605 @@
+tt0002130	movie	Dante's Inferno	L'Inferno	0	1911	\N	68	Adventure,Drama,Fantasy	7.1	\N
+tt0002844	movie	Fantômas: In the Shadow of the Guillotine	Fantômas - À l'ombre de la guillotine	0	1913	\N	54	Crime,Drama	6.9	\N
+tt0003037	movie	Fantômas: Juve versus Fantômas	Juve contre Fantômas	0	1913	\N	61	Crime,Drama	6.8	\N
+tt0003419	movie	The Student of Prague	Der Student von Prag	0	1913	\N	85	Drama,Fantasy,Horror	6.6	\N
+tt0003740	movie	Cabiria	Cabiria	0	1914	\N	148	Adventure,Drama,History	6.8	\N
+tt0003930	movie	Fantomas: The Mysterious Finger Print	Fantômas contre Fantômas	0	1914	\N	59	Crime,Drama	6.8	\N
+tt0004181	movie	Judith of Bethulia	Judith of Bethulia	0	1914	\N	61	Drama	7.2	\N
+tt0004707	movie	Tillie's Punctured Romance	Tillie's Punctured Romance	0	1914	\N	82	Comedy	7.0	\N
+tt0004972	movie	The Birth of a Nation	The Birth of a Nation	0	1915	\N	195	Drama,History,War	6.7	\N
+tt0006206	movie	Les vampires	Les vampires	0	1915	\N	421	Action,Adventure,Crime	6.9	\N
+tt0006333	movie	20,000 Leagues Under the Sea	20,000 Leagues Under the Sea	0	1916	\N	105	Action,Adventure,Sci-Fi	7.0	\N
+tt0006864	movie	Intolerance: Love's Struggle Throughout the Ages	Intolerance: Love's Struggle Throughout the Ages	0	1916	\N	163	Drama,History	8.0	\N
+tt0008443	movie	The Poor Little Rich Girl	The Poor Little Rich Girl	0	1917	\N	65	Comedy,Drama,Family	6.8	\N
+tt0008663	movie	A Man There Was	Terje Vigen	0	1917	\N	48	Drama,War	7.4	\N
+tt0008879	movie	The Outlaw and His Wife	Berg-Ejvind och hans hustru	0	1918	\N	136	Drama	7.2	\N
+tt0009611	movie	Shoulder Arms	Shoulder Arms	0	1918	\N	45	Comedy,War	6.9	\N
+tt0009652	movie	Stella Maris	Stella Maris	0	1918	\N	84	Drama	7.4	\N
+tt0009893	movie	The Oyster Princess	Die Austernprinzessin	0	1919	\N	58	Comedy	7.2	\N
+tt0009937	movie	Blind Husbands	Blind Husbands	0	1919	\N	99	Drama,Romance	6.9	\N
+tt0009968	movie	Broken Blossoms	Broken Blossoms or The Yellow Man and the Girl	0	1919	\N	90	Drama,Romance	7.6	\N
+tt0010040	movie	Daddy-Long-Legs	Daddy-Long-Legs	0	1919	\N	85	Comedy,Drama	7.5	\N
+tt0010071	movie	Don't Change Your Husband	Don't Change Your Husband	0	1919	\N	71	Comedy	7.7	\N
+tt0010247	movie	Sir Arne's Treasure	Herr Arnes pengar	0	1919	\N	122	Drama,History	7.2	\N
+tt0010281	movie	I Don't Want to Be a Man	Ich möchte kein Mann sein	0	1918	\N	45	Comedy,Romance	7.1	\N
+tt0010307	movie	J'accuse!	J'accuse	0	1919	\N	166	Drama,Horror,War	7.4	\N
+tt0010323	movie	The Cabinet of Dr. Caligari	Das Cabinet des Dr. Caligari	0	1920	\N	76	Fantasy,Horror,Mystery	8.1	\N
+tt0010418	movie	Male and Female	Male and Female	0	1919	\N	116	Adventure,Drama	7.9	\N
+tt0010600	movie	The Doll	Die Puppe	0	1919	\N	48	Comedy,Fantasy	7.3	\N
+tt0010806	movie	True Heart Susie	True Heart Susie	0	1919	\N	87	Comedy,Drama,Romance	7.2	\N
+tt0011130	movie	Dr. Jekyll and Mr. Hyde	Dr. Jekyll and Mr. Hyde	0	1920	\N	49	Drama,Horror,Sci-Fi	7.0	\N
+tt0011237	movie	The Golem	Der Golem, wie er in die Welt kam	0	1920	\N	91	Fantasy,Horror	7.2	\N
+tt0011439	movie	The Mark of Zorro	The Mark of Zorro	0	1920	\N	107	Adventure,Romance,Western	7.2	\N
+tt0011565	movie	The Penalty	The Penalty	0	1920	\N	90	Crime,Drama,Horror	7.5	\N
+tt0011652	movie	The Saphead	The Saphead	0	1920	\N	77	Comedy	6.2	\N
+tt0011841	movie	Way Down East	Way Down East	0	1920	\N	145	Drama,Romance	7.9	\N
+tt0011865	movie	Why Change Your Wife?	Why Change Your Wife?	0	1920	\N	90	Comedy,Drama	7.8	\N
+tt0011870	movie	Within Our Gates	Within Our Gates	0	1920	\N	79	Drama,Romance	6.4	\N
+tt0011909	movie	The Affairs of Anatol	The Affairs of Anatol	0	1921	\N	117	Comedy,Drama	7.8	\N
+tt0012190	movie	The Four Horsemen of the Apocalypse	The Four Horsemen of the Apocalypse	0	1921	\N	150	Drama,Romance,War	7.8	\N
+tt0012349	movie	The Kid	The Kid	0	1921	\N	68	Comedy,Drama,Family	8.3	\N
+tt0012364	movie	The Phantom Carriage	Körkarlen	0	1921	\N	100	Drama,Fantasy,Horror	8.1	\N
+tt0012494	movie	Destiny	Der müde Tod	0	1921	\N	114	Drama,Fantasy,Thriller	7.7	\N
+tt0012532	movie	Orphans of the Storm	Orphans of the Storm	0	1921	\N	150	Drama,History,Romance	7.8	\N
+tt0012651	movie	The Haunted Castle	Schloß Vogelöd	0	1921	\N	75	Crime,Drama,Horror	6.3	\N
+tt0012675	movie	The Sheik	The Sheik	0	1921	\N	86	Adventure,Drama,Romance	7.1	\N
+tt0012763	movie	Tol'able David	Tol'able David	0	1921	\N	99	Drama	7.9	\N
+tt0012938	movie	Beyond the Rocks	Beyond the Rocks	0	1922	\N	80	Drama,Romance	7.6	\N
+tt0012952	movie	Blood and Sand	Blood and Sand	0	1922	\N	80	Drama,Romance,Sport	7.2	\N
+tt0013075	movie	Dr. Jack	Dr. Jack	0	1922	\N	59	Comedy	7.2	\N
+tt0013086	movie	Dr. Mabuse: The Gambler	Dr. Mabuse, der Spieler	0	1922	\N	242	Crime,Mystery,Thriller	7.9	\N
+tt0013140	movie	Foolish Wives	Foolish Wives	0	1922	\N	117	Drama,Thriller	7.2	\N
+tt0013201	movie	Grandma's Boy	Grandma's Boy	0	1922	\N	60	Comedy,Family	7.1	\N
+tt0013257	movie	Häxan	Häxan	0	1922	\N	91	Documentary,Fantasy,Horror	7.7	\N
+tt0013427	movie	Nanook of the North	Nanook of the North	0	1922	\N	78	Documentary	7.7	\N
+tt0013442	movie	Nosferatu	Nosferatu, eine Symphonie des Grauens	0	1922	\N	94	Fantasy,Horror	8.0	\N
+tt0013496	movie	Phantom	Phantom	0	1922	\N	125	Drama,Fantasy,Romance	7.0	\N
+tt0013556	movie	Robin Hood	Robin Hood	0	1922	\N	143	Adventure,Family,Romance	7.6	\N
+tt0013626	movie	The Smiling Madame Beudet	La souriante Madame Beudet	0	1923	\N	54	Drama	6.8	\N
+tt0014142	movie	The Hunchback of Notre Dame	The Hunchback of Notre Dame	0	1923	\N	133	Drama,Horror,Romance	7.3	\N
+tt0014341	movie	Our Hospitality	Our Hospitality	0	1923	\N	65	Comedy,Romance,Thriller	7.9	\N
+tt0014358	movie	The Pilgrim	The Pilgrim	0	1923	\N	47	Comedy	7.5	\N
+tt0014417	movie	The Wheel	La roue	0	1923	\N	273	Drama	7.6	\N
+tt0014429	movie	Safety Last!	Safety Last!	0	1923	\N	70	Comedy,Thriller	8.2	\N
+tt0014532	movie	The Ten Commandments	The Ten Commandments	0	1923	\N	136	Biography,Drama,Fantasy	7.0	\N
+tt0014538	movie	Three Ages	Three Ages	0	1923	\N	63	Comedy	7.1	\N
+tt0014586	movie	Waxworks	Das Wachsfigurenkabinett	0	1924	\N	65	Fantasy,Horror	6.8	\N
+tt0014611	movie	Why Worry?	Why Worry?	0	1923	\N	63	Adventure,Comedy,Family	7.4	\N
+tt0014624	movie	A Woman of Paris: A Drama of Fate	A Woman of Paris: A Drama of Fate	0	1923	\N	82	Drama,Romance	7.1	\N
+tt0014646	movie	Aelita: Queen of Mars	Aelita	0	1924	\N	111	Adventure,Drama,Fantasy	6.6	\N
+tt0014945	movie	Girl Shy	Girl Shy	0	1924	\N	87	Comedy,Romance	7.9	\N
+tt0014972	movie	He Who Gets Slapped	He Who Gets Slapped	0	1924	\N	95	Drama,Romance,Thriller	7.9	\N
+tt0015002	movie	Hot Water	Hot Water	0	1924	\N	60	Comedy	7.3	\N
+tt0015016	movie	The Iron Horse	The Iron Horse	0	1924	\N	150	History,Romance,Western	7.3	\N
+tt0015064	movie	The Last Laugh	Der letzte Mann	0	1924	\N	77	Drama	8.1	\N
+tt0015136	movie	Michael	Michael	0	1924	\N	93	Drama,Romance	7.3	\N
+tt0015163	movie	The Navigator	The Navigator	0	1924	\N	59	Action,Comedy,Romance	8.0	\N
+tt0015174	movie	Die Nibelungen: Kriemhild's Revenge	Die Nibelungen: Kriemhilds Rache	0	1924	\N	129	Adventure,Drama,Fantasy	7.9	\N
+tt0015175	movie	Die Nibelungen: Siegfried	Die Nibelungen: Siegfried	0	1924	\N	143	Adventure,Drama,Fantasy	8.1	\N
+tt0015202	movie	The Hands of Orlac	Orlacs Hände	0	1924	\N	92	Crime,Horror,Mystery	7.1	\N
+tt0015324	movie	Sherlock Jr.	Sherlock Jr.	0	1924	\N	45	Action,Comedy,Romance	8.2	\N
+tt0015361	movie	Strike	Stachka	0	1925	\N	82	Drama	7.6	\N
+tt0015400	movie	The Thief of Bagdad	The Thief of Bagdad	0	1924	\N	155	Adventure,Family,Fantasy	7.9	\N
+tt0015532	movie	The Adventures of Prince Achmed	Die Abenteuer des Prinzen Achmed	0	1926	\N	81	Adventure,Animation,Fantasy	7.9	\N
+tt0015624	movie	The Big Parade	The Big Parade	0	1925	\N	151	Drama,Romance,War	8.2	\N
+tt0015648	movie	Battleship Potemkin	Bronenosets Potemkin	0	1925	\N	75	Drama,History	8.0	\N
+tt0015768	movie	Master of the House	Du skal ære din hustru	0	1925	\N	111	Drama	7.2	\N
+tt0015772	movie	The Eagle	The Eagle	0	1925	\N	73	Action,Comedy,Drama	7.3	\N
+tt0015841	movie	The Freshman	The Freshman	0	1925	\N	76	Comedy,Family,Romance	7.6	\N
+tt0015842	movie	The Joyless Street	Die freudlose Gasse	0	1925	\N	125	Drama	7.4	\N
+tt0015863	movie	Go West	Go West	0	1925	\N	68	Comedy,Western	7.2	\N
+tt0015864	movie	The Gold Rush	The Gold Rush	0	1925	\N	95	Adventure,Comedy,Drama	8.2	\N
+tt0015881	movie	Greed	Greed	0	1924	\N	140	Drama,Thriller,Western	7.9	\N
+tt0016029	movie	The Little Colonel	The Little Colonel	0	1935	\N	81	Comedy,Family,Musical	7.1	\N
+tt0016039	movie	The Lost World	The Lost World	0	1925	\N	106	Adventure,Fantasy,Sci-Fi	7.1	\N
+tt0016104	movie	The Merry Widow	The Merry Widow	0	1925	\N	137	Drama,Romance	8.1	\N
+tt0016220	movie	The Phantom of the Opera	The Phantom of the Opera	0	1925	\N	93	Horror	7.7	\N
+tt0016230	movie	The Pleasure Garden	The Pleasure Garden	0	1925	\N	75	Drama,Romance	6.0	\N
+tt0016332	movie	Seven Chances	Seven Chances	0	1925	\N	56	Comedy,Romance	8.0	\N
+tt0016473	movie	The Unholy Three	The Unholy Three	0	1925	\N	86	Crime,Drama,Romance	7.3	\N
+tt0016544	movie	The Wizard of Oz	The Wizard of Oz	0	1925	\N	81	Adventure,Comedy,Family	5.2	\N
+tt0016630	movie	Battling Butler	Battling Butler	0	1926	\N	77	Comedy	7.1	\N
+tt0016641	movie	Ben-Hur: A Tale of the Christ	Ben-Hur: A Tale of the Christ	0	1925	\N	143	Adventure,Drama,Romance	8.0	\N
+tt0016654	movie	The Black Pirate	The Black Pirate	0	1926	\N	88	Action,Adventure	7.2	\N
+tt0016669	movie	La Bohème	La Bohème	0	1926	\N	95	Drama,Romance	7.8	\N
+tt0016690	movie	Brown of Harvard	Brown of Harvard	0	1926	\N	85	Drama,Romance	8.2	\N
+tt0016847	movie	Faust	Faust: Eine deutsche Volkssage	0	1926	\N	85	Drama,Fantasy,Horror	8.1	\N
+tt0016884	movie	Flesh and the Devil	Flesh and the Devil	0	1926	\N	112	Drama,Romance	8.0	\N
+tt0016895	movie	For Heaven's Sake	For Heaven's Sake	0	1926	\N	58	Action,Comedy,Romance	7.5	\N
+tt0017048	movie	A Page of Madness	Kurutta ippêji	0	1926	\N	70	Drama,Horror	7.6	\N
+tt0017075	movie	The Lodger	The Lodger: A Story of the London Fog	0	1927	\N	68	Crime,Drama,Mystery	7.3	\N
+tt0017128	movie	Mother	Mat	0	1926	\N	89	Drama	7.7	\N
+tt0017136	movie	Metropolis	Metropolis	0	1927	\N	153	Drama,Sci-Fi	8.3	\N
+tt0017350	movie	The Scarlet Letter	The Scarlet Letter	0	1926	\N	115	Drama	7.8	\N
+tt0017416	movie	The Son of the Sheik	The Son of the Sheik	0	1926	\N	68	Adventure,Drama,Romance	7.3	\N
+tt0017423	movie	Sparrows	Sparrows	0	1926	\N	110	Drama	7.4	\N
+tt0017448	movie	Tartuffe	Herr Tartüff	0	1925	\N	74	Drama	7.3	\N
+tt0017534	movie	West Point	West Point	0	1927	\N	95	Drama,Romance	7.8	\N
+tt0017668	movie	Berlin: Symphony of a Great City	Berlin: Die Sinfonie der Grosstadt	0	1927	\N	65	Documentary	7.7	\N
+tt0017739	movie	The Cat and the Canary	The Cat and the Canary	0	1927	\N	108	Comedy,Horror,Mystery	7.2	\N
+tt0017765	movie	College	College	0	1927	\N	66	Comedy,Drama,Sport	7.1	\N
+tt0017825	movie	When Boys Leave Home	Downhill	0	1927	\N	80	Adventure,Drama,Thriller	6.2	\N
+tt0017843	movie	Easy Virtue	Easy Virtue	0	1928	\N	80	Romance,Thriller	5.7	\N
+tt0017925	movie	The General	The General	0	1926	\N	67	Action,Adventure,Comedy	8.2	\N
+tt0018033	movie	It	It	0	1927	\N	72	Comedy,Romance	7.4	\N
+tt0018037	movie	The Jazz Singer	The Jazz Singer	0	1927	\N	88	Drama,Music,Musical	6.7	\N
+tt0018051	movie	The Kid Brother	The Kid Brother	0	1927	\N	82	Comedy,Drama,Family	7.6	\N
+tt0018054	movie	The King of Kings	The King of Kings	0	1927	\N	155	Biography,Drama,History	7.4	\N
+tt0018066	movie	The End of St. Petersburg	Konets Sankt-Peterburga	0	1927	\N	85	Drama	7.6	\N
+tt0018097	movie	London After Midnight	London After Midnight	0	1927	\N	69	Horror	6.9	\N
+tt0018192	movie	Napoleon	Napoléon vu par Abel Gance	0	1927	\N	240	Biography,Drama,History	7.6	\N
+tt0018217	movie	October (Ten Days that Shook the World)	Oktyabr	0	1927	\N	142	Drama,History	7.5	\N
+tt0018311	movie	The Red Mill	The Red Mill	0	1927	\N	74	Comedy,Romance	7.8	\N
+tt0018328	movie	The Ring	The Ring	0	1927	\N	116	Drama,Romance,Sport	6.3	\N
+tt0018379	movie	7th Heaven	7th Heaven	0	1927	\N	110	Drama,Romance	7.8	\N
+tt0018451	movie	The Student Prince in Old Heidelberg	The Student Prince in Old Heidelberg	0	1927	\N	106	Drama,Romance	7.8	\N
+tt0018455	movie	Sunrise	Sunrise: A Song of Two Humans	0	1927	\N	94	Drama,Romance	8.2	\N
+tt0018471	movie	Tell It to the Marines	Tell It to the Marines	0	1926	\N	103	Comedy,Drama,Romance	7.9	\N
+tt0018526	movie	Underworld	Underworld	0	1927	\N	80	Crime,Drama,Film-Noir	7.7	\N
+tt0018528	movie	The Unknown	The Unknown	0	1927	\N	63	Drama,Horror,Romance	7.8	\N
+tt0018578	movie	Wings	Wings	0	1927	\N	144	Action,Drama,Romance	7.7	\N
+tt0018737	movie	Pandora's Box	Die Büchse der Pandora	0	1929	\N	109	Crime,Drama,Romance	8.0	\N
+tt0018742	movie	The Cameraman	The Cameraman	0	1928	\N	69	Comedy,Drama,Family	8.3	\N
+tt0018756	movie	Champagne	Champagne	0	1928	\N	86	Comedy	5.7	\N
+tt0018770	movie	The Fall of the House of Usher	La chute de la maison Usher	0	1928	\N	63	Horror	7.4	\N
+tt0018773	movie	The Circus	The Circus	0	1928	\N	72	Comedy,Romance	8.1	\N
+tt0018806	movie	The Crowd	The Crowd	0	1928	\N	98	Drama,Romance	8.0	\N
+tt0018839	movie	The Docks of New York	The Docks of New York	0	1928	\N	76	Crime,Drama,Film-Noir	7.7	\N
+tt0018876	movie	The Farmer's Wife	The Farmer's Wife	0	1928	\N	100	Comedy,Drama,Romance	6.0	\N
+tt0019071	movie	The Last Command	The Last Command	0	1928	\N	88	Drama,History,Romance	8.0	\N
+tt0019074	movie	Laugh, Clown, Laugh	Laugh, Clown, Laugh	0	1928	\N	73	Drama	7.7	\N
+tt0019109	movie	Lonesome	Lonesome	0	1928	\N	69	Comedy,Drama,Romance	8.0	\N
+tt0019130	movie	The Man Who Laughs	The Man Who Laughs	0	1928	\N	110	Drama,Horror,Mystery	7.8	\N
+tt0019195	movie	The Mysterious Lady	The Mysterious Lady	0	1928	\N	96	Drama,Romance	7.3	\N
+tt0019237	movie	Our Dancing Daughters	Our Dancing Daughters	0	1928	\N	85	Drama	7.3	\N
+tt0019254	movie	The Passion of Joan of Arc	La passion de Jeanne d'Arc	0	1928	\N	110	Biography,Drama,History	8.2	\N
+tt0019258	movie	The Patsy	The Patsy	0	1928	\N	78	Comedy,Drama,Romance	8.1	\N
+tt0019286	movie	Storm Over Asia	Potomok Chingis-Khana	0	1928	\N	127	Drama,War	7.3	\N
+tt0019344	movie	Sadie Thompson	Sadie Thompson	0	1928	\N	97	Drama	7.8	\N
+tt0019379	movie	Show People	Show People	0	1928	\N	83	Comedy,Romance	8.2	\N
+tt0019412	movie	Speedy	Speedy	0	1928	\N	85	Action,Comedy,Family	7.7	\N
+tt0019415	movie	Spies	Spione	0	1928	\N	178	Romance,Thriller	7.7	\N
+tt0019421	movie	Steamboat Bill, Jr.	Steamboat Bill, Jr.	0	1928	\N	70	Action,Comedy,Drama	8.0	\N
+tt0019429	movie	Street Angel	Street Angel	0	1928	\N	102	Drama	7.5	\N
+tt0019558	movie	The Wedding March	The Wedding March	0	1928	\N	113	Drama	7.6	\N
+tt0019563	movie	West of Zanzibar	West of Zanzibar	0	1928	\N	65	Drama,Mystery	7.3	\N
+tt0019585	movie	The Wind	The Wind	0	1928	\N	95	Drama,Romance,Western	8.3	\N
+tt0019591	movie	A Woman of Affairs	A Woman of Affairs	0	1928	\N	98	Drama	7.7	\N
+tt0019644	movie	Applause	Applause	0	1929	\N	80	Drama,Musical	7.3	\N
+tt0019649	movie	Arsenal	Arsenal	0	1929	\N	90	Drama,War	7.4	\N
+tt0019655	movie	Asphalt	Asphalt	0	1929	\N	90	Drama	7.6	\N
+tt0019702	movie	Blackmail	Blackmail	0	1929	\N	85	Crime,Thriller	7.0	\N
+tt0019729	movie	The Broadway Melody	The Broadway Melody	0	1929	\N	100	Drama,Musical,Romance	6.2	\N
+tt0019760	movie	Man with a Movie Camera	Chelovek s kino-apparatom	0	1929	\N	68	Documentary,Music	8.4	\N
+tt0019777	movie	The Cocoanuts	The Cocoanuts	0	1929	\N	96	Comedy,Musical	7.2	\N
+tt0019788	movie	Coquette	Coquette	0	1929	\N	76	Drama,Romance	7.1	\N
+tt0019811	movie	Desert Nights	Desert Nights	0	1929	\N	62	Adventure,Drama,Romance	8.1	\N
+tt0019901	movie	Woman in the Moon	Frau im Mond	0	1929	\N	156	Comedy,Drama,Romance	7.4	\N
+tt0019959	movie	Hallelujah	Hallelujah	0	1929	\N	109	Drama,Musical	6.9	\N
+tt0019993	movie	The Hollywood Revue of 1929	The Hollywood Revue of 1929	0	1929	\N	130	Musical	7.4	\N
+tt0020030	movie	The Iron Mask	The Iron Mask	0	1929	\N	95	Adventure,Drama,History	7.6	\N
+tt0020112	movie	The Love Parade	The Love Parade	0	1929	\N	107	Comedy,Musical,Romance	7.2	\N
+tt0020142	movie	The Manxman	The Manxman	0	1929	\N	110	Drama,Romance	6.3	\N
+tt0020143	movie	Marianne	Marianne	0	1929	\N	111	Drama,Musical,Romance	8.1	\N
+tt0020163	movie	People on Sunday	Menschen am Sonntag	0	1930	\N	73	Comedy,Drama,Romance	7.5	\N
+tt0020269	movie	Piccadilly	Piccadilly	0	1929	\N	92	Crime,Drama	7.2	\N
+tt0020298	movie	Queen Kelly	Queen Kelly	0	1929	\N	101	Drama	7.8	\N
+tt0020442	movie	Spite Marriage	Spite Marriage	0	1929	\N	76	Comedy	7.1	\N
+tt0020451	movie	Old and New	Staroye i novoye	0	1929	\N	121	Drama	7.3	\N
+tt0020475	movie	Diary of a Lost Girl	Tagebuch einer Verlorenen	0	1929	\N	104	Drama	8.0	\N
+tt0020514	movie	The Trespasser	The Trespasser	0	1929	\N	90	Drama	7.8	\N
+tt0020620	movie	Abraham Lincoln	Abraham Lincoln	0	1930	\N	96	Biography,Drama,History	5.8	\N
+tt0020629	movie	All Quiet on the Western Front	All Quiet on the Western Front	0	1930	\N	136	Drama,War	8.1	\N
+tt0020640	movie	Animal Crackers	Animal Crackers	0	1930	\N	97	Comedy,Musical	7.7	\N
+tt0020641	movie	Anna Christie	Anna Christie	0	1930	\N	89	Drama,Romance	6.9	\N
+tt0020686	movie	The Big House	The Big House	0	1930	\N	87	Crime,Drama,Thriller	7.2	\N
+tt0020691	movie	The Big Trail	The Big Trail	0	1930	\N	125	Adventure,Romance,Western	7.2	\N
+tt0020697	movie	The Blue Angel	Der blaue Engel	0	1930	\N	106	Drama,Music	7.8	\N
+tt0020768	movie	City Girl	City Girl	0	1930	\N	77	Drama,Romance	7.9	\N
+tt0020815	movie	The Dawn Patrol	The Dawn Patrol	0	1930	\N	108	Action,Drama,War	7.8	\N
+tt0020827	movie	The Divorcee	The Divorcee	0	1930	\N	84	Drama,Romance	6.8	\N
+tt0020891	movie	The Florodora Girl	The Florodora Girl	0	1930	\N	79	Drama,Musical,Romance	7.7	\N
+tt0020960	movie	Hell's Angels	Hell's Angels	0	1930	\N	127	Drama,War	7.7	\N
+tt0021015	movie	Juno and the Paycock	Juno and the Paycock	0	1930	\N	85	Comedy,Drama	4.8	\N
+tt0021079	movie	Little Caesar	Little Caesar	0	1931	\N	79	Action,Crime,Drama	7.3	\N
+tt0021148	movie	Min and Bill	Min and Bill	0	1930	\N	69	Comedy,Drama	7.3	\N
+tt0021156	movie	Morocco	Morocco	0	1930	\N	92	Drama,Romance	7.2	\N
+tt0021165	movie	Murder!	Murder!	0	1930	\N	104	Crime,Mystery,Thriller	6.4	\N
+tt0021331	movie	The Blood of a Poet	Le sang d'un poète	0	1932	\N	55	Fantasy	7.5	\N
+tt0021409	movie	Under the Roofs of Paris	Sous les toits de Paris	0	1930	\N	96	Comedy,Drama,Musical	7.3	\N
+tt0021542	movie	Westfront 1918	Westfront 1918: Vier von der Infanterie	0	1930	\N	97	Drama,Romance,War	7.6	\N
+tt0021571	movie	Earth	Zemlya	0	1930	\N	75	Drama	7.4	\N
+tt0021622	movie	Arrowsmith	Arrowsmith	0	1931	\N	108	Drama	6.2	\N
+tt0021668	movie	The Black Camel	The Black Camel	0	1931	\N	71	Crime,Mystery,Thriller	7.1	\N
+tt0021673	movie	Blonde Crazy	Blonde Crazy	0	1931	\N	79	Comedy,Crime,Drama	7.1	\N
+tt0021730	movie	The Champ	The Champ	0	1931	\N	86	Drama,Sport	7.3	\N
+tt0021746	movie	Cimarron	Cimarron	0	1931	\N	123	Drama,Western	6.0	\N
+tt0021749	movie	City Lights	City Lights	0	1931	\N	87	Comedy,Drama,Romance	8.6	\N
+tt0021750	movie	City Streets	City Streets	0	1931	\N	83	Crime,Drama,Film-Noir	7.2	\N
+tt0021800	movie	Dishonored	Dishonored	0	1931	\N	91	Drama,Romance,War	7.3	\N
+tt0021814	movie	Dracula	Dracula	0	1931	\N	75	Fantasy,Horror	7.6	\N
+tt0021815	movie	Drácula	Drácula	0	1931	\N	104	Fantasy,Horror	7.2	\N
+tt0021818	movie	The 3 Penny Opera	Die 3 Groschen-Oper	0	1931	\N	112	Comedy,Drama,Musical	7.5	\N
+tt0021873	movie	Five Star Final	Five Star Final	0	1931	\N	89	Crime,Drama	7.3	\N
+tt0021874	movie	Five and Ten	Five and Ten	0	1931	\N	89	Drama,Romance	7.8	\N
+tt0021884	movie	Frankenstein	Frankenstein	0	1931	\N	70	Drama,Horror,Sci-Fi	7.9	\N
+tt0021885	movie	A Free Soul	A Free Soul	0	1931	\N	93	Crime,Drama,Romance	6.7	\N
+tt0021890	movie	The Front Page	The Front Page	0	1931	\N	101	Comedy	6.8	\N
+tt0021985	movie	Hyppolit, the Butler	Hyppolit a lakáj	0	1931	\N	72	Comedy	7.8	\N
+tt0022000	movie	Indiscreet	Indiscreet	0	1931	\N	92	Comedy,Drama,Musical	7.8	\N
+tt0022054	movie	The Last Flight	The Last Flight	0	1931	\N	76	Drama	7.8	\N
+tt0022074	movie	The Smiling Lieutenant	The Smiling Lieutenant	0	1931	\N	93	Comedy,Musical,Romance	7.8	\N
+tt0022080	movie	Limite	Limite	0	1931	\N	114	Drama,Romance	7.4	\N
+tt0022100	movie	M	M - Eine Stadt sucht einen Mörder	0	1931	\N	117	Crime,Drama,Mystery	8.4	\N
+tt0022111	movie	The Maltese Falcon	The Maltese Falcon	0	1931	\N	80	Crime,Drama,Film-Noir	7.3	\N
+tt0022125	movie	Marius	Marius	0	1931	\N	130	Comedy,Drama,Romance	7.9	\N
+tt0022150	movie	Le Million	Le million	0	1931	\N	81	Comedy,Musical	7.6	\N
+tt0022153	movie	The Miracle Woman	The Miracle Woman	0	1931	\N	90	Drama,Romance	7.3	\N
+tt0022158	movie	Monkey Business	Monkey Business	0	1931	\N	77	Comedy,Musical	7.6	\N
+tt0022183	movie	Mädchen in Uniform	Mädchen in Uniform	0	1931	\N	88	Drama,Romance	7.7	\N
+tt0022208	movie	Night Nurse	Night Nurse	0	1931	\N	72	Comedy,Crime,Drama	7.0	\N
+tt0022251	movie	Pardon Us	Pardon Us	0	1931	\N	56	Comedy,Crime,Drama	7.0	\N
+tt0022264	movie	The Phantom of Paris	The Phantom of Paris	0	1931	\N	74	Drama,Thriller	7.4	\N
+tt0022268	movie	Platinum Blonde	Platinum Blonde	0	1931	\N	89	Comedy,Romance	6.9	\N
+tt0022276	movie	Possessed	Possessed	0	1931	\N	76	Drama,Romance	6.8	\N
+tt0022286	movie	The Public Enemy	The Public Enemy	0	1931	\N	83	Crime,Drama	7.7	\N
+tt0022395	movie	The Skin Game	The Skin Game	0	1931	\N	85	Drama	5.8	\N
+tt0022403	movie	Smart Money	Smart Money	0	1931	\N	81	Crime,Drama	6.9	\N
+tt0022436	movie	Street Scene	Street Scene	0	1931	\N	80	Drama,Romance	7.7	\N
+tt0022454	movie	Svengali	Svengali	0	1931	\N	81	Drama,Horror,Romance	6.9	\N
+tt0022458	movie	Tabu: A Story of the South Seas	Tabu: A Story of the South Seas	0	1931	\N	86	Adventure,Drama,Romance	7.6	\N
+tt0022485	movie	Tokyo Chorus	Tôkyô no kôrasu	0	1931	\N	90	Comedy,Drama	7.4	\N
+tt0022489	movie	Tonight or Never	Tonight or Never	0	1931	\N	80	Comedy,Romance	7.8	\N
+tt0022550	movie	Waterloo Bridge	Waterloo Bridge	0	1931	\N	81	Drama,Romance	7.6	\N
+tt0022599	movie	À Nous la Liberté	À nous la liberté	0	1931	\N	104	Comedy,Musical	7.6	\N
+tt0022626	movie	American Madness	American Madness	0	1932	\N	75	Drama	7.5	\N
+tt0022685	movie	A Bill of Divorcement	A Bill of Divorcement	0	1932	\N	70	Drama	6.6	\N
+tt0022698	movie	Blonde Venus	Blonde Venus	0	1932	\N	93	Drama	7.2	\N
+tt0022718	movie	Boudu Saved from Drowning	Boudu sauvé des eaux	0	1932	\N	85	Comedy	7.5	\N
+tt0022735	movie	The Cabin in the Cotton	The Cabin in the Cotton	0	1932	\N	78	Drama	7.1	\N
+tt0022827	movie	Doctor X	Doctor X	0	1932	\N	76	Comedy,Crime,Horror	6.5	\N
+tt0022834	movie	Downstairs	Downstairs	0	1932	\N	77	Drama,Romance	7.7	\N
+tt0022835	movie	Dr. Jekyll and Mr. Hyde	Dr. Jekyll and Mr. Hyde	0	1931	\N	98	Horror,Sci-Fi	7.7	\N
+tt0022867	movie	Ecstasy	Ekstase	0	1933	\N	82	Drama,Romance	6.8	\N
+tt0022877	movie	Fanny	Fanny	0	1932	\N	140	Comedy,Drama	7.7	\N
+tt0022879	movie	A Farewell to Arms	A Farewell to Arms	0	1932	\N	80	Drama,Romance,War	6.6	\N
+tt0022905	movie	Forbidden	Forbidden	0	1932	\N	85	Drama,Romance	7.0	\N
+tt0022913	movie	Freaks	Freaks	0	1932	\N	64	Drama,Horror	7.9	\N
+tt0022958	movie	Grand Hotel	Grand Hotel	0	1932	\N	112	Drama,Romance	7.5	\N
+tt0023027	movie	Horse Feathers	Horse Feathers	0	1932	\N	68	Comedy,Musical,Romance	7.7	\N
+tt0023042	movie	I Am a Fugitive from a Chain Gang	I Am a Fugitive from a Chain Gang	0	1932	\N	92	Crime,Drama,Film-Noir	8.1	\N
+tt0023049	movie	If I Had a Million	If I Had a Million	0	1932	\N	88	Comedy,Drama	7.2	\N
+tt0023074	movie	Jewel Robbery	Jewel Robbery	0	1932	\N	68	Comedy,Crime,Romance	7.4	\N
+tt0023158	movie	Love Me Tonight	Love Me Tonight	0	1932	\N	104	Comedy,Musical,Romance	7.7	\N
+tt0023194	movie	The Mask of Fu Manchu	The Mask of Fu Manchu	0	1932	\N	68	Adventure,Horror,Sci-Fi	6.4	\N
+tt0023196	movie	Mata Hari	Mata Hari	0	1931	\N	89	Crime,Drama,Romance	6.7	\N
+tt0023238	movie	The Most Dangerous Game	The Most Dangerous Game	0	1932	\N	63	Adventure,Horror,Mystery	7.2	\N
+tt0023241	movie	Movie Crazy	Movie Crazy	0	1932	\N	84	Comedy,Family,Romance	7.2	\N
+tt0023245	movie	The Mummy	The Mummy	0	1932	\N	73	Fantasy,Horror	7.2	\N
+tt0023249	movie	Murders in the Rue Morgue	Murders in the Rue Morgue	0	1932	\N	61	Crime,Horror,Mystery	6.4	\N
+tt0023285	movie	Number 17	Number Seventeen	0	1932	\N	66	Crime,Mystery,Thriller	5.8	\N
+tt0023293	movie	The Old Dark House	The Old Dark House	0	1932	\N	72	Comedy,Horror,Thriller	7.3	\N
+tt0023303	movie	One Hour with You	One Hour with You	0	1932	\N	80	Comedy,Musical,Romance	7.3	\N
+tt0023305	movie	One Way Passage	One Way Passage	0	1932	\N	67	Comedy,Drama,Romance	8.0	\N
+tt0023312	movie	Pack Up Your Troubles	Pack Up Your Troubles	0	1932	\N	68	Comedy,War	7.3	\N
+tt0023362	movie	The Purchase Price	The Purchase Price	0	1932	\N	68	Comedy,Drama	6.5	\N
+tt0023369	movie	Rain	Rain	0	1932	\N	94	Drama	6.9	\N
+tt0023382	movie	Red Dust	Red Dust	0	1932	\N	83	Drama,Romance	7.4	\N
+tt0023385	movie	Red-Headed Woman	Red-Headed Woman	0	1932	\N	79	Comedy,Romance	7.1	\N
+tt0023395	movie	East of Shanghai	Rich and Strange	0	1931	\N	92	Comedy,Romance,Thriller	5.9	\N
+tt0023427	movie	Scarface	Scarface	0	1932	\N	93	Action,Crime,Drama	7.8	\N
+tt0023458	movie	Shanghai Express	Shanghai Express	0	1932	\N	82	Adventure,Drama,Romance	7.4	\N
+tt0023470	movie	The Sign of the Cross	The Sign of the Cross	0	1932	\N	108	Drama,History	6.9	\N
+tt0023491	movie	So Big!	So Big!	0	1932	\N	81	Drama,Romance	7.2	\N
+tt0023551	movie	Tarzan the Ape Man	Tarzan the Ape Man	0	1932	\N	100	Action,Adventure,Romance	7.2	\N
+tt0023563	movie	The Testament of Dr. Mabuse	Das Testament des Dr. Mabuse	0	1933	\N	122	Crime	7.9	\N
+tt0023590	movie	Three on a Match	Three on a Match	0	1932	\N	63	Crime,Drama,Romance	7.3	\N
+tt0023622	movie	Trouble in Paradise	Trouble in Paradise	0	1932	\N	83	Comedy,Crime,Romance	8.2	\N
+tt0023634	movie	I Was Born, But...	Otona no miru ehon - Umarete wa mita keredo	0	1932	\N	100	Comedy,Drama	8.0	\N
+tt0023649	movie	Vampyr	Vampyr	0	1932	\N	83	Fantasy,Horror	7.6	\N
+tt0023686	movie	What Price Hollywood?	What Price Hollywood?	0	1932	\N	88	Drama	7.6	\N
+tt0023694	movie	White Zombie	White Zombie	0	1932	\N	69	Horror	6.4	\N
+tt0023731	movie	20,000 Years in Sing Sing	20,000 Years in Sing Sing	0	1932	\N	78	Crime,Drama,Film-Noir	7.1	\N
+tt0023753	movie	Alice in Wonderland	Alice in Wonderland	0	1933	\N	76	Adventure,Family,Fantasy	6.5	\N
+tt0023775	movie	Baby Face	Baby Face	0	1933	\N	71	Drama,Romance	7.6	\N
+tt0023814	movie	The Bitter Tea of General Yen	The Bitter Tea of General Yen	0	1932	\N	88	Drama,Romance,War	7.1	\N
+tt0023825	movie	Bombshell	Bombshell	0	1933	\N	96	Comedy,Drama,Romance	7.3	\N
+tt0023871	movie	A Song of Lisbon	A Canção de Lisboa	0	1933	\N	85	Comedy,Musical	7.8	\N
+tt0023876	movie	Cavalcade	Cavalcade	0	1933	\N	112	Drama,Romance,War	6.0	\N
+tt0023891	movie	Christopher Strong	Christopher Strong	0	1933	\N	78	Drama,Romance	6.4	\N
+tt0023926	movie	Dancing Lady	Dancing Lady	0	1933	\N	92	Comedy,Musical,Romance	6.7	\N
+tt0023937	movie	Passing Fancy	Dekigokoro	0	1933	\N	100	Drama	7.5	\N
+tt0023940	movie	Design for Living	Design for Living	0	1933	\N	91	Comedy,Romance	7.6	\N
+tt0023943	movie	The Devil's Brother	The Devil's Brother	0	1933	\N	90	Comedy,Musical	7.2	\N
+tt0023948	movie	Dinner at Eight	Dinner at Eight	0	1933	\N	111	Comedy,Drama	7.8	\N
+tt0023969	movie	Duck Soup	Duck Soup	0	1933	\N	68	Comedy,Musical,War	8.0	\N
+tt0024008	movie	Female	Female	0	1933	\N	60	Comedy,Drama,Romance	6.8	\N
+tt0024025	movie	Flying Down to Rio	Flying Down to Rio	0	1933	\N	89	Comedy,Musical,Romance	6.7	\N
+tt0024028	movie	Footlight Parade	Footlight Parade	0	1933	\N	104	Comedy,Musical,Romance	7.7	\N
+tt0024034	movie	42nd Street	42nd Street	0	1933	\N	89	Comedy,Musical,Romance	7.6	\N
+tt0024044	movie	Gabriel Over the White House	Gabriel Over the White House	0	1933	\N	86	Drama,Fantasy,Romance	6.4	\N
+tt0024055	movie	The Ghoul	The Ghoul	0	1933	\N	77	Action,Drama,Horror	5.9	\N
+tt0024067	movie	Going Hollywood	Going Hollywood	0	1933	\N	78	Musical,Romance	7.8	\N
+tt0024069	movie	Gold Diggers of 1933	Gold Diggers of 1933	0	1933	\N	97	Comedy,Drama,Musical	8.0	\N
+tt0024087	movie	Hans Westmar	Hans Westmar	0	1933	\N	95	Biography	7.8	\N
+tt0024115	movie	Heroes for Sale	Heroes for Sale	0	1933	\N	76	Drama,War	7.8	\N
+tt0024127	movie	Our Flags Lead Us Forward	Hitlerjunge Quex	0	1933	\N	95	Drama	7.0	\N
+tt0024130	movie	Hold Your Man	Hold Your Man	0	1933	\N	87	Drama,Romance	6.9	\N
+tt0024166	movie	I'm No Angel	I'm No Angel	0	1933	\N	87	Comedy,Musical,Romance	7.0	\N
+tt0024183	movie	International House	International House	0	1933	\N	68	Comedy	7.1	\N
+tt0024184	movie	The Invisible Man	The Invisible Man	0	1933	\N	71	Horror,Sci-Fi	7.7	\N
+tt0024188	movie	Island of Lost Souls	Island of Lost Souls	0	1932	\N	70	Horror,Sci-Fi	7.5	\N
+tt0024210	movie	The Kennel Murder Case	The Kennel Murder Case	0	1933	\N	73	Mystery	7.0	\N
+tt0024216	movie	King Kong	King Kong	0	1933	\N	100	Adventure,Horror,Sci-Fi	7.9	\N
+tt0024238	movie	Ladies They Talk About	Ladies They Talk About	0	1933	\N	69	Crime,Drama,Romance	6.7	\N
+tt0024239	movie	Lady Killer	Lady Killer	0	1933	\N	76	Comedy,Crime	7.0	\N
+tt0024240	movie	Lady for a Day	Lady for a Day	0	1933	\N	96	Comedy,Drama	7.5	\N
+tt0024252	movie	Liebelei	Liebelei	0	1933	\N	88	Drama,Romance	7.7	\N
+tt0024264	movie	Little Women	Little Women	0	1933	\N	115	Drama,Family,Romance	7.4	\N
+tt0024302	movie	Man's Castle	Man's Castle	0	1933	\N	75	Drama,Romance	7.4	\N
+tt0024314	movie	The Mayor of Hell	The Mayor of Hell	0	1933	\N	90	Crime,Drama,Romance	7.0	\N
+tt0024353	movie	Morning Glory	Morning Glory	0	1933	\N	74	Drama,Romance	6.6	\N
+tt0024368	movie	Mystery of the Wax Museum	Mystery of the Wax Museum	0	1933	\N	77	Horror,Mystery,Thriller	6.9	\N
+tt0024433	movie	Peg o' My Heart	Peg o' My Heart	0	1933	\N	87	Drama,Romance	7.9	\N
+tt0024450	movie	Picture Snatcher	Picture Snatcher	0	1933	\N	77	Crime,Drama	7.1	\N
+tt0024473	movie	The Private Life of Henry VIII.	The Private Life of Henry VIII.	0	1933	\N	97	Biography,Comedy,Drama	7.2	\N
+tt0024481	movie	Queen Christina	Queen Christina	0	1933	\N	99	Biography,Drama,History	7.8	\N
+tt0024548	movie	She Done Him Wrong	She Done Him Wrong	0	1933	\N	66	Comedy,Drama,History	6.5	\N
+tt0024593	movie	The Son of Kong	The Son of Kong	0	1933	\N	70	Adventure,Comedy	5.8	\N
+tt0024601	movie	Sons of the Desert	Sons of the Desert	0	1933	\N	68	Comedy	7.7	\N
+tt0024727	movie	The Vampire Bat	The Vampire Bat	0	1933	\N	65	Drama,Horror,Mystery	5.7	\N
+tt0024747	movie	Strauss' Great Waltz	Waltzes from Vienna	0	1934	\N	81	Biography,Music,Romance	6.1	\N
+tt0024772	movie	Wild Boys of the Road	Wild Boys of the Road	0	1933	\N	68	Adventure,Drama	7.5	\N
+tt0024844	movie	L'Atalante	L'Atalante	0	1934	\N	89	Comedy,Drama,Romance	7.9	\N
+tt0024852	movie	Babes in Toyland	Babes in Toyland	0	1934	\N	77	Comedy,Family,Fantasy	7.4	\N
+tt0024865	movie	The Barretts of Wimpole Street	The Barretts of Wimpole Street	0	1934	\N	109	Biography,Drama,Romance	7.0	\N
+tt0024894	movie	The Black Cat	The Black Cat	0	1934	\N	65	Adventure,Crime,Horror	7.1	\N
+tt0024902	movie	Blue Steel	Blue Steel	0	1934	\N	54	Western	5.4	\N
+tt0024914	movie	Bright Eyes	Bright Eyes	0	1934	\N	85	Comedy,Drama,Family	7.3	\N
+tt0024968	movie	Charlie Chan in London	Charlie Chan in London	0	1934	\N	79	Crime,Drama,Mystery	7.4	\N
+tt0024991	movie	Cleopatra	Cleopatra	0	1934	\N	100	Biography,Drama,History	6.9	\N
+tt0025004	movie	The Count of Monte Cristo	The Count of Monte Cristo	0	1934	\N	113	Action,Adventure,Drama	7.6	\N
+tt0025028	movie	Dames	Dames	0	1934	\N	91	Comedy,Musical,Romance	7.2	\N
+tt0025037	movie	Death Takes a Holiday	Death Takes a Holiday	0	1934	\N	79	Drama,Fantasy,Romance	7.2	\N
+tt0025091	movie	Evelyn Prentice	Evelyn Prentice	0	1934	\N	79	Drama,Mystery,Romance	6.9	\N
+tt0025129	movie	Fog Over Frisco	Fog Over Frisco	0	1934	\N	68	Crime,Mystery,Thriller	7.0	\N
+tt0025164	movie	The Gay Divorcee	The Gay Divorcee	0	1934	\N	107	Comedy,Musical,Romance	7.6	\N
+tt0025301	movie	Imitation of Life	Imitation of Life	0	1934	\N	111	Drama,Romance	7.6	\N
+tt0025316	movie	It Happened One Night	It Happened One Night	0	1934	\N	105	Comedy,Romance	8.1	\N
+tt0025318	movie	It's a Gift	It's a Gift	0	1934	\N	68	Comedy	7.4	\N
+tt0025330	movie	Jimmy the Gent	Jimmy the Gent	0	1934	\N	67	Comedy,Crime,Drama	7.1	\N
+tt0025335	movie	Judge Priest	Judge Priest	0	1934	\N	80	Comedy,Drama,Romance	6.4	\N
+tt0025410	movie	Little Miss Marker	Little Miss Marker	0	1934	\N	80	Comedy,Drama,Family	7.1	\N
+tt0025423	movie	The Lost Patrol	The Lost Patrol	0	1934	\N	73	Adventure,War	6.9	\N
+tt0025452	movie	The Man Who Knew Too Much	The Man Who Knew Too Much	0	1934	\N	75	Crime,Mystery,Thriller	6.9	\N
+tt0025456	movie	Man of Aran	Man of Aran	0	1934	\N	76	Documentary	7.5	\N
+tt0025464	movie	Manhattan Melodrama	Manhattan Melodrama	0	1934	\N	93	Crime,Drama,Romance	7.2	\N
+tt0025465	movie	Maniac	Maniac	0	1934	\N	51	Horror	3.5	\N
+tt0025493	movie	The Merry Widow	The Merry Widow	0	1934	\N	99	Comedy,Musical,Romance	7.5	\N
+tt0025509	movie	Les Misérables	Les misérables	0	1934	\N	281	Drama	8.1	\N
+tt0025586	movie	Of Human Bondage	Of Human Bondage	0	1934	\N	83	Drama,Romance	7.3	\N
+tt0025607	movie	Operator 13	Operator 13	0	1934	\N	85	Drama,History,Romance	7.7	\N
+tt0025610	movie	Our Daily Bread	Our Daily Bread	0	1934	\N	80	Drama,Romance	7.2	\N
+tt0025617	movie	The Painted Veil	The Painted Veil	0	1934	\N	85	Drama,Romance	6.7	\N
+tt0025746	movie	The Scarlet Empress	The Scarlet Empress	0	1934	\N	104	Drama,History,Romance	7.7	\N
+tt0025748	movie	The Scarlet Pimpernel	The Scarlet Pimpernel	0	1934	\N	97	Adventure,Drama	7.5	\N
+tt0025862	movie	Tarzan and His Mate	Tarzan and His Mate	0	1934	\N	104	Action,Adventure	7.6	\N
+tt0025878	movie	The Thin Man	The Thin Man	0	1934	\N	91	Comedy,Crime,Mystery	8.1	\N
+tt0025898	movie	Toni	Toni	0	1935	\N	81	Crime,Drama,Romance	7.4	\N
+tt0025907	movie	Treasure Island	Treasure Island	0	1934	\N	110	Adventure,Family	7.2	\N
+tt0025913	movie	Triumph of the Will	Triumph des Willens	0	1935	\N	114	Documentary,History,War	7.5	\N
+tt0025919	movie	Twentieth Century	Twentieth Century	0	1934	\N	91	Comedy,Romance	7.8	\N
+tt0025929	movie	A Story of Floating Weeds	Ukikusa monogatari	0	1934	\N	86	Drama	7.9	\N
+tt0026029	movie	The 39 Steps	The 39 Steps	0	1935	\N	86	Mystery,Thriller	7.8	\N
+tt0026056	movie	Alice Adams	Alice Adams	0	1935	\N	99	Comedy,Drama,Romance	7.0	\N
+tt0026071	movie	Anna Karenina	Anna Karenina	0	1935	\N	95	Drama,Romance	7.1	\N
+tt0026073	movie	Annie Oakley	Annie Oakley	0	1935	\N	90	Biography,Drama,Western	6.8	\N
+tt0026097	movie	Barbary Coast	Barbary Coast	0	1935	\N	91	Adventure,Drama,Romance	6.8	\N
+tt0026123	movie	The Black Room	The Black Room	0	1935	\N	68	Crime,Horror	7.0	\N
+tt0026126	movie	Bonnie Scotland	Bonnie Scotland	0	1935	\N	80	Comedy	6.9	\N
+tt0026129	movie	Bordertown	Bordertown	0	1935	\N	90	Crime,Drama	7.1	\N
+tt0026138	movie	Bride of Frankenstein	Bride of Frankenstein	0	1935	\N	75	Drama,Horror,Sci-Fi	7.9	\N
+tt0026144	movie	Broadway Melody of 1936	Broadway Melody of 1936	0	1935	\N	101	Musical,Romance	6.8	\N
+tt0026164	movie	Call of the Wild	Call of the Wild	0	1935	\N	89	Action,Adventure,Drama	6.9	\N
+tt0026174	movie	Captain Blood	Captain Blood	0	1935	\N	119	Action,Adventure	7.8	\N
+tt0026197	movie	Charlie Chan in Egypt	Charlie Chan in Egypt	0	1935	\N	73	Comedy,Crime,Horror	7.1	\N
+tt0026198	movie	Charlie Chan in Paris	Charlie Chan in Paris	0	1935	\N	72	Comedy,Crime,Drama	7.5	\N
+tt0026199	movie	Charlie Chan in Shanghai	Charlie Chan in Shanghai	0	1935	\N	71	Comedy,Crime,Mystery	7.4	\N
+tt0026205	movie	China Seas	China Seas	0	1935	\N	87	Action,Adventure,Drama	7.0	\N
+tt0026246	movie	Crime and Punishment	Crime and Punishment	0	1935	\N	88	Crime,Drama	7.0	\N
+tt0026252	movie	Curly Top	Curly Top	0	1935	\N	75	Family,Musical,Romance	6.9	\N
+tt0026261	movie	Dangerous	Dangerous	0	1935	\N	79	Drama	7.1	\N
+tt0026266	movie	David Copperfield	The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger	0	1935	\N	130	Adventure,Drama,Romance	7.5	\N
+tt0026276	movie	The Devil Is a Woman	The Devil Is a Woman	0	1935	\N	79	Comedy,Drama,Romance	7.2	\N
+tt0026388	movie	Front Page Woman	Front Page Woman	0	1935	\N	82	Comedy,Romance	7.1	\N
+tt0026393	movie	'G' Men	'G' Men	0	1935	\N	85	Crime,Drama,Film-Noir	7.2	\N
+tt0026406	movie	The Ghost Goes West	The Ghost Goes West	0	1935	\N	95	Comedy,Fantasy,Horror	6.9	\N
+tt0026421	movie	Gold Diggers of 1935	Gold Diggers of 1935	0	1935	\N	95	Comedy,Musical	7.5	\N
+tt0026424	movie	The Good Fairy	The Good Fairy	0	1935	\N	98	Comedy,Romance	7.7	\N
+tt0026452	movie	Hands Across the Table	Hands Across the Table	0	1935	\N	80	Comedy,Romance	7.1	\N
+tt0026529	movie	The Informer	The Informer	0	1935	\N	91	Crime,Drama	7.5	\N
+tt0026564	movie	Carnival in Flanders	La kermesse héroïque	0	1935	\N	110	Comedy,History,Romance	7.6	\N
+tt0026641	movie	The Littlest Rebel	The Littlest Rebel	0	1935	\N	73	Comedy,Drama,Family	6.9	\N
+tt0026643	movie	The Lives of a Bengal Lancer	The Lives of a Bengal Lancer	0	1935	\N	109	Adventure,Drama	7.3	\N
+tt0026663	movie	Mad Love	Mad Love	0	1935	\N	68	Horror,Romance,Sci-Fi	7.3	\N
+tt0026685	movie	Mark of the Vampire	Mark of the Vampire	0	1935	\N	60	Horror,Mystery	6.3	\N
+tt0026714	movie	A Midsummer Night's Dream	A Midsummer Night's Dream	0	1935	\N	133	Comedy,Fantasy,Romance	7.0	\N
+tt0026725	movie	Les Misérables	Les Misérables	0	1935	\N	108	Drama,History,Romance	7.6	\N
+tt0026752	movie	Mutiny on the Bounty	Mutiny on the Bounty	0	1935	\N	132	Adventure,Biography,Drama	7.8	\N
+tt0026778	movie	A Night at the Opera	A Night at the Opera	0	1935	\N	96	Comedy,Music,Musical	8.0	\N
+tt0026840	movie	Page Miss Glory	Page Miss Glory	0	1935	\N	93	Comedy,Music,Romance	7.8	\N
+tt0026866	movie	Peter Ibbetson	Peter Ibbetson	0	1935	\N	88	Drama,Fantasy,Romance	7.2	\N
+tt0026912	movie	The Raven	The Raven	0	1935	\N	61	Crime,Horror	7.1	\N
+tt0026942	movie	Roberta	Roberta	0	1935	\N	106	Comedy,Musical,Romance	7.1	\N
+tt0026955	movie	Ruggles of Red Gap	Ruggles of Red Gap	0	1935	\N	90	Comedy,Romance	7.7	\N
+tt0026972	movie	Scrooge	Scrooge	0	1935	\N	78	Drama,Family,Fantasy	6.6	\N
+tt0026983	movie	She	She	0	1935	\N	101	Adventure,Fantasy,Romance	6.6	\N
+tt0027067	movie	Sylvia Scarlett	Sylvia Scarlett	0	1935	\N	95	Comedy,Drama,Romance	6.2	\N
+tt0027075	movie	A Tale of Two Cities	A Tale of Two Cities	0	1935	\N	128	Drama,History,Romance	7.8	\N
+tt0027125	movie	Top Hat	Top Hat	0	1935	\N	101	Comedy,Musical,Romance	7.8	\N
+tt0027194	movie	Werewolf of London	Werewolf of London	0	1935	\N	75	Drama,Fantasy,Horror	6.5	\N
+tt0027214	movie	The Whole Town's Talking	The Whole Town's Talking	0	1935	\N	93	Comedy,Crime,Drama	7.4	\N
+tt0027260	movie	After the Thin Man	After the Thin Man	0	1936	\N	112	Comedy,Crime,Mystery	7.7	\N
+tt0027286	movie	The Amazing Adventure	The Amazing Quest of Ernest Bliss	0	1936	\N	80	Comedy,Drama,Romance	6.3	\N
+tt0027300	movie	Anthony Adverse	Anthony Adverse	0	1936	\N	141	Adventure,Drama,Romance	6.5	\N
+tt0027336	movie	The Lower Depths	Les bas-fonds	0	1936	\N	95	Crime,Drama,Romance	7.8	\N
+tt0027367	movie	Black Legion	Black Legion	0	1937	\N	83	Crime,Drama,Film-Noir	7.0	\N
+tt0027376	movie	The Bohemian Girl	The Bohemian Girl	0	1936	\N	71	Comedy,Musical	6.8	\N
+tt0027387	movie	Born to Dance	Born to Dance	0	1936	\N	106	Comedy,Musical	6.8	\N
+tt0027407	movie	Bullets or Ballots	Bullets or Ballots	0	1936	\N	82	Crime,Drama,Film-Noir	7.1	\N
+tt0027413	movie	Cain and Mabel	Cain and Mabel	0	1936	\N	90	Comedy,Musical,Romance	7.7	\N
+tt0027438	movie	The Charge of the Light Brigade	The Charge of the Light Brigade	0	1936	\N	115	Action,Adventure,Romance	7.1	\N
+tt0027439	movie	Charlie Chan at the Circus	Charlie Chan at the Circus	0	1936	\N	72	Comedy,Crime,Mystery	7.3	\N
+tt0027440	movie	Charlie Chan at the Opera	Charlie Chan at the Opera	0	1936	\N	68	Mystery	7.6	\N
+tt0027441	movie	Charlie Chan at the Race Track	Charlie Chan at the Race Track	0	1936	\N	70	Comedy,Crime,Mystery	7.6	\N
+tt0027442	movie	Charlie Chan's Secret	Charlie Chan's Secret	0	1936	\N	72	Comedy,Crime,Horror	7.5	\N
+tt0027459	movie	Come and Get It	Come and Get It	0	1936	\N	99	Drama	7.0	\N
+tt0027478	movie	The Crime of Monsieur Lange	Le crime de Monsieur Lange	0	1936	\N	80	Comedy,Crime,Drama	7.5	\N
+tt0027489	movie	César	César	0	1936	\N	168	Drama	7.8	\N
+tt0027515	movie	Desire	Desire	0	1936	\N	95	Comedy,Crime,Romance	7.2	\N
+tt0027521	movie	The Devil-Doll	The Devil-Doll	0	1936	\N	78	Drama,Horror,Sci-Fi	7.1	\N
+tt0027532	movie	Dodsworth	Dodsworth	0	1936	\N	101	Drama,Romance	8.1	\N
+tt0027545	movie	Dracula's Daughter	Dracula's Daughter	0	1936	\N	71	Drama,Fantasy,Horror	6.4	\N
+tt0027552	movie	Bizarre, Bizarre	Drôle de drame	0	1937	\N	94	Comedy	7.6	\N
+tt0027593	movie	The Ex-Mrs. Bradford	The Ex-Mrs. Bradford	0	1936	\N	82	Comedy,Mystery,Romance	7.1	\N
+tt0027623	movie	Flash Gordon	Flash Gordon	0	1936	\N	245	Action,Adventure,Sci-Fi	7.3	\N
+tt0027630	movie	Follow the Fleet	Follow the Fleet	0	1936	\N	110	Comedy,Musical,Romance	7.2	\N
+tt0027652	movie	Fury	Fury	0	1936	\N	92	Crime,Drama,Film-Noir	7.9	\N
+tt0027657	movie	The Garden of Allah	The Garden of Allah	0	1936	\N	79	Adventure,Drama,Romance	6.0	\N
+tt0027672	movie	Sisters of the Gion	Gion no shimai	0	1936	\N	69	Drama	7.7	\N
+tt0027698	movie	The Great Ziegfeld	The Great Ziegfeld	0	1936	\N	176	Biography,Drama,Musical	6.8	\N
+tt0027752	movie	The Only Son	Hitori musuko	0	1936	\N	87	Drama	7.9	\N
+tt0027800	movie	The Invisible Ray	The Invisible Ray	0	1936	\N	80	Horror,Sci-Fi,Thriller	6.7	\N
+tt0027884	movie	Libeled Lady	Libeled Lady	0	1936	\N	98	Comedy,Romance	7.9	\N
+tt0027893	movie	Little Lord Fauntleroy	Little Lord Fauntleroy	0	1936	\N	102	Drama,Family	7.3	\N
+tt0027948	movie	Mary of Scotland	Mary of Scotland	0	1936	\N	123	Biography,Drama,History	6.4	\N
+tt0027969	movie	The Milky Way	The Milky Way	0	1936	\N	89	Comedy	6.7	\N
+tt0027977	movie	Modern Times	Modern Times	0	1936	\N	87	Comedy,Drama,Family	8.5	\N
+tt0027996	movie	Mr. Deeds Goes to Town	Mr. Deeds Goes to Town	0	1936	\N	115	Comedy,Drama,Romance	8.0	\N
+tt0028010	movie	My Man Godfrey	My Man Godfrey	0	1936	\N	94	Comedy,Drama,Romance	8.1	\N
+tt0028021	movie	Osaka Elegy	Naniwa erejî	0	1936	\N	71	Comedy,Drama	7.4	\N
+tt0028070	movie	Our Relations	Our Relations	0	1936	\N	73	Comedy	7.5	\N
+tt0028096	movie	The Petrified Forest	The Petrified Forest	0	1936	\N	82	Drama,Film-Noir,Romance	7.6	\N
+tt0028108	movie	The Plainsman	The Plainsman	0	1936	\N	113	Biography,History,Romance	6.9	\N
+tt0028118	movie	Poor Little Rich Girl	Poor Little Rich Girl	0	1936	\N	79	Adventure,Comedy,Family	7.1	\N
+tt0028141	movie	The Prisoner of Shark Island	The Prisoner of Shark Island	0	1936	\N	96	Biography,Drama,History	7.3	\N
+tt0028167	movie	Rembrandt	Rembrandt	0	1936	\N	85	Biography,Drama	7.2	\N
+tt0028174	movie	Revolt of the Zombies	Revolt of the Zombies	0	1936	\N	65	Adventure,Horror	3.2	\N
+tt0028201	movie	The Story of a Cheat	Le roman d'un tricheur	0	1936	\N	81	Comedy	7.7	\N
+tt0028203	movie	Romeo and Juliet	Romeo and Juliet	0	1936	\N	125	Drama,Romance	6.7	\N
+tt0028207	movie	Rose-Marie	Rose-Marie	0	1936	\N	113	Adventure,Drama,Musical	7.1	\N
+tt0028212	movie	Sabotage	Sabotage	0	1936	\N	76	Thriller	7.1	\N
+tt0028216	movie	San Francisco	San Francisco	0	1936	\N	115	Drama,Musical,Romance	7.3	\N
+tt0028219	movie	Satan Met a Lady	Satan Met a Lady	0	1936	\N	74	Mystery,Thriller	6.2	\N
+tt0028231	movie	Secret Agent	Secret Agent	0	1936	\N	86	Mystery,Thriller	6.6	\N
+tt0028249	movie	Show Boat	Show Boat	0	1936	\N	113	Comedy,Drama,Musical	7.6	\N
+tt0028313	movie	The Story of Louis Pasteur	The Story of Louis Pasteur	0	1936	\N	86	Biography,Drama,History	7.4	\N
+tt0028315	movie	Stowaway	Stowaway	0	1936	\N	87	Adventure,Family,Musical	7.2	\N
+tt0028330	movie	Suzy	Suzy	0	1936	\N	93	Drama	6.5	\N
+tt0028333	movie	Swing Time	Swing Time	0	1936	\N	103	Comedy,Musical,Romance	7.7	\N
+tt0028345	movie	Tarzan Escapes	Tarzan Escapes	0	1936	\N	89	Action,Adventure	6.9	\N
+tt0028346	movie	Reefer Madness	Tell Your Children	0	1936	\N	66	Drama,Thriller	3.7	\N
+tt0028355	movie	Theodora Goes Wild	Theodora Goes Wild	0	1936	\N	94	Comedy,Romance	7.3	\N
+tt0028356	movie	These Three	These Three	0	1936	\N	93	Drama,Romance	7.6	\N
+tt0028358	movie	Things to Come	Things to Come	0	1936	\N	100	Drama,Sci-Fi,War	6.7	\N
+tt0028373	movie	Three Smart Girls	Three Smart Girls	0	1936	\N	84	Comedy,Musical,Romance	6.8	\N
+tt0028478	movie	The Walking Dead	The Walking Dead	0	1936	\N	66	Crime,Horror,Sci-Fi	6.7	\N
+tt0028505	movie	Wife vs. Secretary	Wife vs. Secretary	0	1936	\N	88	Comedy,Drama,Romance	7.1	\N
+tt0028575	movie	Angel	Angel	0	1937	\N	91	Comedy,Drama,Romance	7.4	\N
+tt0028597	movie	The Awful Truth	The Awful Truth	0	1937	\N	91	Comedy,Romance	7.9	\N
+tt0028683	movie	Camille	Camille	0	1936	\N	109	Drama,Romance	7.5	\N
+tt0028691	movie	Captains Courageous	Captains Courageous	0	1937	\N	117	Adventure,Drama,Family	8.0	\N
+tt0028707	movie	Charlie Chan at Monte Carlo	Charlie Chan at Monte Carlo	0	1937	\N	72	Comedy,Crime,Mystery	7.3	\N
+tt0028708	movie	Charlie Chan at the Olympics	Charlie Chan at the Olympics	0	1937	\N	71	Comedy,Crime,Mystery	7.6	\N
+tt0028709	movie	Charlie Chan on Broadway	Charlie Chan on Broadway	0	1937	\N	68	Comedy,Crime,Mystery	7.6	\N
+tt0028739	movie	Conquest	Conquest	0	1937	\N	113	Drama,History,Romance	6.7	\N
+tt0028757	movie	A Damsel in Distress	A Damsel in Distress	0	1937	\N	101	Comedy,Musical,Romance	6.9	\N
+tt0028772	movie	A Day at the Races	A Day at the Races	0	1937	\N	111	Comedy,Musical,Sport	7.7	\N
+tt0028773	movie	Dead End	Dead End	0	1937	\N	93	Crime,Drama,Film-Noir	7.4	\N
+tt0028804	movie	Double Wedding	Double Wedding	0	1937	\N	87	Comedy,Romance	7.1	\N
+tt0028816	movie	Easy Living	Easy Living	0	1937	\N	88	Comedy,Romance	7.8	\N
+tt0028818	movie	The Edge of the World	The Edge of the World	0	1937	\N	81	Drama,History,Romance	7.4	\N
+tt0028842	movie	Ever Since Eve	Ever Since Eve	0	1937	\N	80	Comedy,Romance	7.7	\N
+tt0028872	movie	Fire Over England	Fire Over England	0	1937	\N	92	Adventure,History,Romance	6.7	\N
+tt0028944	movie	The Good Earth	The Good Earth	0	1937	\N	138	Drama,Romance	7.7	\N
+tt0028950	movie	La Grande Illusion	La grande illusion	0	1937	\N	113	Drama,War	8.1	\N
+tt0028988	movie	Heidi	Heidi	0	1937	\N	88	Drama,Family,Musical	7.3	\N
+tt0029002	movie	History Is Made at Night	History Is Made at Night	0	1937	\N	97	Drama,Romance	7.4	\N
+tt0029030	movie	The Hurricane	The Hurricane	0	1937	\N	110	Action,Drama,Romance	7.3	\N
+tt0029047	movie	In Old Chicago	In Old Chicago	0	1938	\N	95	Action,Drama,Musical	6.9	\N
+tt0029058	movie	It's Love I'm After	It's Love I'm After	0	1937	\N	90	Comedy	7.7	\N
+tt0029080	movie	Kid Galahad	Kid Galahad	0	1937	\N	102	Crime,Drama,Romance	7.3	\N
+tt0029118	movie	The Last Gangster	The Last Gangster	0	1937	\N	81	Crime,Drama,Thriller	6.8	\N
+tt0029146	movie	The Life of Emile Zola	The Life of Emile Zola	0	1937	\N	116	Biography,Drama	7.3	\N
+tt0029192	movie	Make Way for Tomorrow	Make Way for Tomorrow	0	1937	\N	91	Comedy,Drama,Romance	8.3	\N
+tt0029201	movie	The Man Who Could Work Miracles	The Man Who Could Work Miracles	0	1936	\N	82	Comedy,Fantasy	7.1	\N
+tt0029217	movie	Marked Woman	Marked Woman	0	1937	\N	96	Crime,Film-Noir,Thriller	7.4	\N
+tt0029284	movie	My Favorite Wife	My Favorite Wife	0	1940	\N	88	Comedy,Romance	7.4	\N
+tt0029310	movie	Night Must Fall	Night Must Fall	0	1937	\N	116	Drama,Mystery,Thriller	7.3	\N
+tt0029314	movie	Humanity and Paper Balloons	Ninjô kami fûsen	0	1937	\N	86	Drama	7.8	\N
+tt0029322	movie	Nothing Sacred	Nothing Sacred	0	1937	\N	77	Comedy,Drama,Romance	7.3	\N
+tt0029335	movie	Oh, Mr. Porter!	Oh, Mr. Porter!	0	1937	\N	85	Comedy	7.7	\N
+tt0029440	movie	The Prince and the Pauper	The Prince and the Pauper	0	1937	\N	118	Adventure,Drama,Family	7.3	\N
+tt0029442	movie	The Prisoner of Zenda	The Prisoner of Zenda	0	1937	\N	101	Adventure,Drama,Romance	7.7	\N
+tt0029453	movie	Pépé le Moko	Pépé le Moko	0	1937	\N	94	Crime,Drama,Romance	7.7	\N
+tt0029511	movie	San Quentin	San Quentin	0	1937	\N	70	Crime,Drama,Film-Noir	6.6	\N
+tt0029516	movie	Saratoga	Saratoga	0	1937	\N	92	Comedy,Drama,Romance	6.6	\N
+tt0029546	movie	Shall We Dance	Shall We Dance	0	1937	\N	109	Comedy,Musical,Romance	7.6	\N
+tt0029583	movie	Snow White and the Seven Dwarfs	Snow White and the Seven Dwarfs	0	1937	\N	83	Animation,Family,Fantasy	7.6	\N
+tt0029604	movie	Stage Door	Stage Door	0	1937	\N	92	Comedy,Drama	7.8	\N
+tt0029606	movie	A Star Is Born	A Star Is Born	0	1937	\N	111	Drama	7.6	\N
+tt0029608	movie	Stella Dallas	Stella Dallas	0	1937	\N	106	Drama,Romance	7.5	\N
+tt0029650	movie	That Certain Woman	That Certain Woman	0	1937	\N	93	Drama,Romance	7.0	\N
+tt0029658	movie	They Won't Forget	They Won't Forget	0	1937	\N	95	Drama,Film-Noir,Mystery	7.3	\N
+tt0029682	movie	Topper	Topper	0	1937	\N	97	Comedy,Fantasy,Romance	7.4	\N
+tt0029695	movie	True Confession	True Confession	0	1937	\N	85	Comedy,Crime	7.4	\N
+tt0029747	movie	Way Out West	Way Out West	0	1937	\N	65	Comedy,Family,Western	7.7	\N
+tt0029751	movie	Wee Willie Winkie	Wee Willie Winkie	0	1937	\N	100	Adventure,Family	7.1	\N
+tt0029808	movie	You Only Live Once	You Only Live Once	0	1937	\N	86	Crime,Drama,Film-Noir	7.4	\N
+tt0029811	movie	Young and Innocent	Young and Innocent	0	1937	\N	80	Crime,Mystery,Romance	7.0	\N
+tt0029843	movie	The Adventures of Robin Hood	The Adventures of Robin Hood	0	1938	\N	102	Action,Adventure,Romance	8.0	\N
+tt0029844	movie	The Adventures of Tom Sawyer	The Adventures of Tom Sawyer	0	1938	\N	91	Adventure,Family	7.3	\N
+tt0029850	movie	Alexander Nevsky	Aleksandr Nevskiy	0	1938	\N	112	Action,Biography,Drama	7.7	\N
+tt0029852	movie	Alexander's Ragtime Band	Alexander's Ragtime Band	0	1938	\N	106	Drama,Musical,Romance	7.0	\N
+tt0029855	movie	Algiers	Algiers	0	1938	\N	96	Drama,Mystery,Romance	6.8	\N
+tt0029864	movie	The Amazing Dr. Clitterhouse	The Amazing Dr. Clitterhouse	0	1938	\N	87	Crime,Drama	7.0	\N
+tt0029870	movie	Angels with Dirty Faces	Angels with Dirty Faces	0	1938	\N	97	Crime,Drama,Film-Noir	8.0	\N
+tt0029923	movie	Block-Heads	Block-Heads	0	1938	\N	57	Comedy,War	7.7	\N
+tt0029929	movie	Bluebeard's Eighth Wife	Bluebeard's Eighth Wife	0	1938	\N	85	Comedy,Romance	7.3	\N
+tt0029942	movie	Boys Town	Boys Town	0	1938	\N	96	Biography,Drama	7.3	\N
+tt0029947	movie	Bringing Up Baby	Bringing Up Baby	0	1938	\N	102	Comedy,Family,Romance	8.0	\N
+tt0029957	movie	La Bête Humaine	La bête humaine	0	1938	\N	100	Crime,Drama	7.7	\N
+tt0029971	movie	Carefree	Carefree	0	1938	\N	83	Comedy,Musical,Romance	7.1	\N
+tt0029984	movie	Charlie Chan in Honolulu	Charlie Chan in Honolulu	0	1938	\N	67	Comedy,Crime,Horror	7.3	\N
+tt0029992	movie	A Christmas Carol	A Christmas Carol	0	1938	\N	69	Drama,Family,Fantasy	7.5	\N
+tt0029995	movie	The Citadel	The Citadel	0	1938	\N	110	Drama	7.2	\N
+tt0030018	movie	The Cowboy and the Lady	The Cowboy and the Lady	0	1938	\N	91	Comedy,Drama,Romance	6.6	\N
+tt0030044	movie	The Dawn Patrol	The Dawn Patrol	0	1938	\N	103	Drama,War	7.6	\N
+tt0030063	movie	The Divorce of Lady X	The Divorce of Lady X	0	1938	\N	92	Comedy,Drama,Romance	6.8	\N
+tt0030127	movie	The Baker's Wife	La femme du boulanger	0	1938	\N	133	Comedy,Drama	7.6	\N
+tt0030149	movie	Four Daughters	Four Daughters	0	1938	\N	90	Drama,Music,Romance	7.0	\N
+tt0030241	movie	Holiday	Holiday	0	1938	\N	95	Comedy,Romance	7.8	\N
+tt0030252	movie	Hotel du Nord	Hôtel du Nord	0	1938	\N	95	Drama,Romance	7.8	\N
+tt0030287	movie	Jezebel	Jezebel	0	1938	\N	104	Drama,Romance	7.6	\N
+tt0030341	movie	The Lady Vanishes	The Lady Vanishes	0	1938	\N	96	Mystery,Thriller	7.9	\N
+tt0030386	movie	Love Finds Andy Hardy	Love Finds Andy Hardy	0	1938	\N	91	Comedy,Romance	6.9	\N
+tt0030396	movie	The Mad Miss Manton	The Mad Miss Manton	0	1938	\N	80	Comedy,Crime,Mystery	6.9	\N
+tt0030418	movie	Marie Antoinette	Marie Antoinette	0	1938	\N	149	Biography,Drama,History	7.6	\N
+tt0030442	movie	Merrily We Live	Merrily We Live	0	1938	\N	95	Comedy,Romance	7.4	\N
+tt0030522	movie	Olympia Part One: Festival of the Nations	Olympia 1. Teil - Fest der Völker	0	1938	\N	121	Documentary,Sport	8.0	\N
+tt0030523	movie	Olympia Part Two: Festival of Beauty	Olympia 2. Teil - Fest der Schönheit	0	1938	\N	96	Documentary,Sport	7.9	\N
+tt0030637	movie	Pygmalion	Pygmalion	0	1938	\N	96	Comedy,Drama,Romance	7.9	\N
+tt0030643	movie	Port of Shadows	Le quai des brumes	0	1938	\N	91	Crime,Drama,Romance	7.7	\N
+tt0030657	movie	Rebecca of Sunnybrook Farm	Rebecca of Sunnybrook Farm	0	1938	\N	81	Comedy,Drama,Family	7.1	\N
+tt0030696	movie	Room Service	Room Service	0	1938	\N	78	Comedy	6.8	\N
+tt0030744	movie	The Shopworn Angel	The Shopworn Angel	0	1938	\N	85	Drama,Romance,War	7.1	\N
+tt0030755	movie	The Sisters	The Sisters	0	1938	\N	99	Drama	7.1	\N
+tt0030764	movie	A Slight Case of Murder	A Slight Case of Murder	0	1938	\N	85	Comedy,Crime	7.2	\N
+tt0030824	movie	Swiss Miss	Swiss Miss	0	1938	\N	73	Comedy,Musical	6.8	\N
+tt0030845	movie	The Terror of Tiny Town	The Terror of Tiny Town	0	1938	\N	62	Western	3.5	\N
+tt0030848	movie	Test Pilot	Test Pilot	0	1938	\N	119	Drama,Romance	6.9	\N
+tt0030865	movie	Three Comrades	Three Comrades	0	1938	\N	98	Drama,Romance	7.4	\N
+tt0030879	movie	Too Hot to Handle	Too Hot to Handle	0	1938	\N	107	Adventure,Comedy,Drama	6.7	\N
+tt0030944	movie	Vivacious Lady	Vivacious Lady	0	1938	\N	90	Comedy,Romance	7.3	\N
+tt0030993	movie	You Can't Take It with You	You Can't Take It with You	0	1938	\N	126	Comedy,Drama,Romance	8.0	\N
+tt0031022	movie	The Adventures of Sherlock Holmes	The Adventu
